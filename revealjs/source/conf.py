@@ -28,3 +28,10 @@ language = 'ja'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+
+revealjs_style_theme = "sky"
+revealjs_static_path = html_static_path
+revealjs_css_files = [
+    "slides.css",
+]

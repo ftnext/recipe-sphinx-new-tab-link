@@ -27,3 +27,6 @@ language = 'ja'
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+
+# -- Options for sphinx_new_tab_link -----------------------------------------
+new_tab_link_show_external_link_icon = True

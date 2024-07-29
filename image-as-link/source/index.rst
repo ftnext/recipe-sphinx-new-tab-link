@@ -3,15 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-image links documentation
-=========================
+Image as Link
+=============
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+image directive
+---------------
 
+.. image:: _static/breakfast.jpg
+    :target: https://www.flickr.com/photos/pyconjp/48818171768/in/album-72157710870622516/
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+figure directive
+----------------
 
+.. figure:: _static/pyconjp2019.jpg
+    :target: https://www.flickr.com/photos/pyconjp/48743997848/in/album-72157710870622516/

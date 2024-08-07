@@ -32,7 +32,7 @@ snowballstemmer==2.2.0
     # via sphinx
 sphinx==7.4.7
     # via sphinxcontrib-extdevhelper-kasane
-sphinx-new-tab-link==0.5.1
+sphinx-new-tab-link==0.5.2
     # via -r requirements.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx

@@ -7,15 +7,11 @@
 alabaster==1.0.0
     # via sphinx
 babel==2.17.0
-    # via
-    #   sphinx
-    #   sphinx-intl
+    # via sphinx
 certifi==2025.1.31
     # via requests
 charset-normalizer==3.4.1
     # via requests
-click==8.1.8
-    # via sphinx-intl
 docutils==0.21.2
     # via
     #   sphinx
@@ -42,15 +38,12 @@ snowballstemmer==2.2.0
     # via sphinx
 sphinx==8.2.3
     # via
-    #   sphinx-intl
     #   sphinx-new-tab-link
     #   sphinx-revealjs
     #   sphinxcontrib-extdevhelper-kasane
-sphinx-intl[doc]==2.3.1
-    # via sphinx-revealjs
 sphinx-new-tab-link==0.7.0
     # via -r requirements.in
-sphinx-revealjs==3.1.3
+sphinx-revealjs==3.1.4
     # via -r requirements.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
@@ -68,6 +61,3 @@ sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
 urllib3==2.3.0
     # via requests
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
